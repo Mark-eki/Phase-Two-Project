@@ -11,3 +11,7 @@
 ## 2. Data Understanding and Analysis
 ##### We are going to look at how our datasets looks like and explore them.We are going to analyze the datasets required for our objective
 ##### we are going to look ata datasets from IMDB, The Numbers,The Movie db, Box Office Mojo and the database im.db. After thoughrough analysis we are going to merge this datasets into one dataframe so as to get more information for a better informed decision
+##### After merging the datasets our final dataframe will include the following columns
+#####
+(['movie_id', 'movie', 'original title', 'start year', 'runtime minutes', 'genres', 'average rating', number of votes'])
+## 3. Viualizations
