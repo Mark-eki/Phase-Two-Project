@@ -1,1 +1,2 @@
-# Phase-Two-Project
+# ANALYSIS OF THE MOVIE INDUSTRY FOR EXPANSION
+### 1. Introduction
