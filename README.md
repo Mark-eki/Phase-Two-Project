@@ -20,6 +20,17 @@
 ##### The above graph shows the top 10 genres that are voted for mostly. Mystery, Drama, Adventure, Scifi, and thriller lead in with the most votes
 ##### <img width="2603" height="2096" alt="top 10 movie languages by numbers" src="https://github.com/user-attachments/assets/3f6bc968-f6db-41cb-802a-fd5be81e45ca" />
 ##### This graph tells us most movies are English based with the rest not being so popular
+##### Abbreviation for language code are:
+##### 1. en - English
+##### 2. fr - French
+##### 3. es = Spanish
+##### 4. Ru - Rusiia
+##### 5. ja - Japanese
+##### 6. de - German
+##### 7. zh - Chinese
+##### 8. hi - Hindi
+##### 9. it - Italian
+##### 10. pt - Portuguese
 ##### <img width="2603" height="2127" alt="top 10 movie genres" src="https://github.com/user-attachments/assets/655b488d-cc91-474b-998f-3f3ac5572ba3" />
 ##### The graph shows the top genres that are produced mostly by studios. Drama leads followed by Documentary, Horror and comedy.
 ## 4. Summary
@@ -27,5 +38,7 @@
 ##### - English is most preferd as it makes the most movies with genres like drama, documentary, and sports being popular
 ##### - Also the movies that are popular and highly rated tend to gross well as they have low budget needs.
 ##### - Higher ratings doesn't mean that a genre is more popular or vice versa. Or in any case will yield better returns
-
-##### 
+## 5. Recommendations
+##### 1. A production with a hybrid with different genres produce better revenue
+##### 2. Its better to produce movies in different languages and subtitles to cater for a wider audience
+##### 3. Producing Low budget movies like Drama bring more revenue as they do not require a lot to make
