@@ -15,3 +15,4 @@
 #####
 (['movie_id', 'movie', 'original title', 'start year', 'runtime minutes', 'genres', 'average rating', number of votes'])
 ## 3. Viualizations
+##### <img width="3009" height="1634" alt="top 10 movie genres by number of votes" src="https://github.com/user-attachments/assets/5728452f-6374-4a43-bffe-74490ee989c3" />
